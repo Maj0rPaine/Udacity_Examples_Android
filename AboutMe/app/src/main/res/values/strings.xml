@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name_text">Chris Paine</string>
+    <string name="start_image_content_desc">Star Image</string>
+    <string name="bio">Hi, my name is Chris. \n\nI love fish. \n\nThe kind that is alive and swims around in an
+        aquarium or river, or a lake, and definitely the ocean. \nFun fact is that I have several aquariums and also a
+        river. \n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much. \nAnd
+        sometimes I even go fishing.\n\nI love fish. \n\nThe kind that is alive and swims around in an
+        aquarium or river, or a lake, and definitely the ocean. \nFun fact is that I have several aquariums and also a
+        river. \n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much. \nAnd
+        sometimes I even go fishing.\n\nI love fish. \n\nThe kind that is alive and swims around in an
+        aquarium or river, or a lake, and definitely the ocean. \nFun fact is that I have several aquariums and also a
+        river. \n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much. \nAnd
+        sometimes I even go fishing.\n\nI love fish. \n\nThe kind that is alive and swims around in an
+        aquarium or river, or a lake, and definitely the ocean. \nFun fact is that I have several aquariums and also a
+        river. \n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much. \nAnd
+        sometimes I even go fishing.
+    </string>
+    <string name="what_is_your_nickname">What is you nickname?</string>
+    <string name="done_button">Done</string>
+</resources>
